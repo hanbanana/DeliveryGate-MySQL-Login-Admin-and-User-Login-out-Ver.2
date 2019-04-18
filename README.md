@@ -24,7 +24,9 @@ HTML, CSS, Bootstrap, JavaScript, jQuery, AJAX, MySQL, NPM, Node.js
    - ID: user1
 
    - PW: user1
+   
    or
+   
    - ID: user2
 
    - PW: user2
