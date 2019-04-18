@@ -75,7 +75,7 @@ app.post('/auth', function (request, response) {
   var username = request.body.username;
   var password = request.body.password;
  
-      if (username === "user1" || password === "user1" || username === "user2" || password === "user2") {
+      if (username === "user1" && password === "user1" || username === "user2" && password === "user2") {
         request.session.customer= true;
         request.session.user = "user1" || "user2";
         
