@@ -1,4 +1,4 @@
-# DeliveryGate-MySQL-Login-Admin-and-User-Login-out
+# DeliveryGate-MySQL-Login-Admin-and-User-Login-out-Ver.2
 
 Delivery Gate Application is a internal delivery order system. The core concept is a simple application that can quickly add delivery information.   
 
