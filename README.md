@@ -21,9 +21,13 @@ HTML, CSS, Bootstrap, JavaScript, jQuery, AJAX, MySQL, NPM, Node.js
 
 * Customer Login (Only see delivery order history)
 
-   - ID: user1, user2
+   - ID: user1
 
-   - PW: user1, user2
+   - PW: user1
+   or
+   - ID: user2
+
+   - PW: user2
 
 * Admin Login (Create and Edit delivery order)
 
